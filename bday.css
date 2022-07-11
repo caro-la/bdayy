@@ -77,12 +77,64 @@ a {
     width: 100%;
 }
 
+.yn {
+    display: block;
+    width: 60%;
+    margin: 1em auto;
+    padding-bottom: 2em;
+    position: relative;
+    top: -3em;
+}
+
+.yn a {
+    margin: .4em auto;
+}
+
 .next {
     width: auto;
 }
 
 .tu {
     font-size: 5em;
+    text-shadow: 0px 0px 5px white;
+}
+
+p {
+    color: white;
+    text-shadow: 0px 0px 5px lightblue;
+    font-family: sans-serif;
+    text-align: center;
+    margin: .5em auto;
+    font-weight: bold;
+}
+
+.bst {
+    font-size: 2.5em;
+}
+
+.cor {
+    background-image: url("https://i.gifer.com/YGg4.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+img {
+    margin: 0 auto;
+    width: 100%;
+    height: auto;
+}
+
+.img {
+    
+    position: relative;
+    top: -4em;
+}
+
+.mail {
+    margin: 0 auto;
+    position: relative;
+    left: 46%;
+    top: -3em;
 }
 
 .prev {
